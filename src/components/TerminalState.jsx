@@ -1,9 +1,75 @@
 import React from 'react'
 
-const TerminalState = () => {
+export const TerminalState = () => {
   return (
-    <div>TerminalState</div>
+    <div>
+      <div>
+        <p>場所1</p>
+        <section>
+          <p>端末1</p>
+          <p>端末2</p>
+          <p>端末3</p>
+          <p>端末4</p>
+          <p>端末5</p>
+          <p>端末6</p>
+        </section>
+      </div>
+      <div>
+        <p>場所2</p>
+        <section>
+          <p>端末1</p>
+          <p>端末2</p>
+          <p>端末3</p>
+          <p>端末4</p>
+          <p>端末5</p>
+          <p>端末6</p>
+        </section>
+      </div>
+      <div>
+        <p>場所3</p>
+        <section>
+          <p>端末1</p>
+          <p>端末2</p>
+          <p>端末3</p>
+          <p>端末4</p>
+          <p>端末5</p>
+          <p>端末6</p>
+        </section>
+      </div>
+      <div>
+        <p>場所4</p>
+        <section>
+          <p>端末1</p>
+          <p>端末2</p>
+          <p>端末3</p>
+          <p>端末4</p>
+          <p>端末5</p>
+          <p>端末6</p>
+        </section>
+      </div>
+      <div>
+        <p>場所5</p>
+        <section>
+          <p>端末1</p>
+          <p>端末2</p>
+          <p>端末3</p>
+          <p>端末4</p>
+          <p>端末5</p>
+          <p>端末6</p>
+        </section>
+      </div>
+      <div>
+        <p>場所1</p>
+        <section>
+          <p>端末1</p>
+          <p>端末2</p>
+          <p>端末3</p>
+          <p>端末4</p>
+          <p>端末5</p>
+          <p>端末6</p>
+        </section>
+      </div>
+
+    </div>
   )
 }
-
-export default TerminalState
