@@ -2,19 +2,19 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <>
-      <div>
-        <p>場所</p>
-        <p>運用中</p>
-        <p>モード</p>
-        <p>バージョン</p>
-        <button>操作</button>
-        <button>コピー</button>
-        <button>アラーム停止</button>
-        <button>端末</button>
-        <p>時刻</p>
+    <div>
+      <div class="flex justify-center">
+        <p class="m-2">場所</p>
+        <p class="m-2">運用中</p>
+        <p class="m-2">モード</p>
+        <p class="m-2">バージョン</p>
+        <button class="m-2">操作</button>
+        <button class="m-2">コピー</button>
+        <button class="m-2">アラーム停止</button>
+        <button class="m-2">端末</button>
+        <p class="m-2">時刻</p>
       </div>
-    </>
+    </div>
   )
 }
 

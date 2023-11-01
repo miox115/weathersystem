@@ -1,4 +1,4 @@
-import "./App.css";
+import "./css/output.css";
 import Header from "./pages/Header";
 import Nav from "./pages/Nav";
 import Setting from "./pages/Setting";
@@ -9,9 +9,11 @@ function App() {
   return (
     <>
       <Header />
-      <Nav />
-      <State />
-      <Setting />
+      <section class="flex justify-between">
+        <Nav />
+        <State />
+        <Setting />
+      </section>
       <Log />
     </>
   );
