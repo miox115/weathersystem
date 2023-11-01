@@ -15,7 +15,7 @@ export const ServerState = () => {
           </div>
         </div>
         <div class="m-2 p-1 border-2">
-          <p class="text-xl">内部サーバー</p>
+          <p class="text-center text-xl">内部サーバー</p>
         <div>
             <div>
               <button class="text-xl m-2 p-4 bg-green-500 rounded">A系</button>
@@ -28,7 +28,7 @@ export const ServerState = () => {
 
       <div class="flex justify-center">
         <div class="m-2 p-1 border-2">
-          <p class="text-xl">外部サーバー</p>
+          <p class="text-center text-xl">外部サーバー</p>
         <div>
             <div>
               <button class="text-xl m-2 p-4 bg-green-500 rounded">A系</button>
@@ -39,7 +39,7 @@ export const ServerState = () => {
         </div>
 
         <div class="m-2 p-1 border-2">
-          <p class="text-xl">管理サーバー</p>
+          <p class="text-center text-xl">管理サーバー</p>
         <div>
             <div>
               <button class="text-xl m-2 p-4 bg-green-500 rounded">A系</button>
