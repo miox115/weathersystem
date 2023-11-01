@@ -11,7 +11,7 @@ function App() {
       <Header />
       <section class="flex justify-between">
         <Nav />
-        <State />
+        <State class="flex m-auto"/>
         <Setting />
       </section>
       <Log />

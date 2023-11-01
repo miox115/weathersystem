@@ -2,8 +2,8 @@ import React from 'react'
 
 const Setting = () => {
   return (
-    <div>
-      <div class="flex">
+    <div class="m-2 p-4 border-2 text-xl">
+      <div class="flex ">
         <div class="m-2">
           <ul>
             <li>端末</li>
