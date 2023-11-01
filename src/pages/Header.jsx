@@ -4,15 +4,15 @@ const Header = () => {
   return (
     <div>
       <div class="flex justify-center">
-        <p class="m-2">場所</p>
-        <p class="m-2">運用中</p>
-        <p class="m-2">モード</p>
-        <p class="m-2">バージョン</p>
-        <button class="m-2">操作</button>
-        <button class="m-2">コピー</button>
-        <button class="m-2">アラーム停止</button>
-        <button class="m-2">端末</button>
-        <p class="m-2">時刻</p>
+        <p class="text-3xl m-2 p-3 bg-gray-200 rounded-md">場所</p>
+        <p class="text-3xl m-2 p-3 bg-green-500 rounded-md">運用中</p>
+        <p class="text-3xl m-2 p-3 bg-green-500 rounded-md">モード</p>
+        <p class="text-3xl m-2 p-3 bg-gray-200 rounded-md">バージョン</p>
+        <button class="text-3xl m-2 p-3 bg-gray-500 rounded-md">操作</button>
+        <button class="text-3xl m-2 p-3 bg-gray-500 rounded-md">コピー</button>
+        <button class="text-3xl m-2 p-3 bg-gray-500 rounded-md">アラーム停止</button>
+        <button class="text-3xl m-2 p-3 bg-gray-500 rounded-md">端末</button>
+        <p class="text-3xl m-2 p-3 bg-gray-200 rounded-md">時刻</p>
       </div>
     </div>
   )
