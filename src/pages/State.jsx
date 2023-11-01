@@ -5,8 +5,8 @@ import { TerminalState } from '../components/TerminalState'
 const State = () => {
   return (
     <div>
-      {/* {<ServerState />} */}
-      {<TerminalState />}
+      {<ServerState />}
+      {/* {<TerminalState />} */}
     </div>
   )
 }
