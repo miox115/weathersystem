@@ -4,7 +4,7 @@ import { TerminalState } from '../components/TerminalState'
 
 const State = () => {
   return (
-    <div  class="border-2 p-4">
+    <div  class="border-2 m-2 p-4">
       {<ServerState />}
       {<TerminalState />}
     </div>
