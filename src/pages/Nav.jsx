@@ -5,11 +5,11 @@ const Nav = () => {
     <div class="m-2 p-4 border-2 text-xl">
       <p>一覧表</p>
       <details class="m-2">
-        <summary>サーバー</summary>
-        <ul class="m-1">中央サーバー</ul>
-        <ul class="m-1">内部サーバー</ul>
-        <ul class="m-1">外部サーバー</ul>
-        <ul class="m-1">管理サーバー</ul>
+        <summary>サーバ</summary>
+        <ul class="m-1">中央サーバ</ul>
+        <ul class="m-1">内部サーバ</ul>
+        <ul class="m-1">外部サーバ</ul>
+        <ul class="m-1">管理サーバ</ul>
       </details>
       <details class="m-2">
         <summary>場所1</summary>
